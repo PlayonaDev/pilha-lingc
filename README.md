@@ -1,0 +1,2 @@
+# pilha-lingc
+Nesse código é criada uma fila vazia (linha 2), na qual são enfileirados os elementos 1,2 e 3 (linha 3 e 5). Após, é impresso na tela o tamanho da fila (linha 6), usando a função "tamanho". Nas linhas 8 e 10, os três elementos anteriormente inseridos na fila são desenfileirados  e impressos na tela. Por fim, a situação da fila (se está vazia ou não) é impressa e a fila é liberada da memória do computador (linha 14). 
